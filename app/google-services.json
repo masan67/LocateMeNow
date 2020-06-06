@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "159980749251",
+    "firebase_url": "https://locate-me-f6984.firebaseio.com",
+    "project_id": "locate-me-f6984",
+    "storage_bucket": "locate-me-f6984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159980749251:android:7f867c937fb5fd9ef33d76",
+        "android_client_info": {
+          "package_name": "com.marioapps.locateme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159980749251-ecpbpurs0ttcah1fs71r53inbpfb631a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT6cVxfkCZjzOedn654TptDZhxUwt0sTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159980749251-ecpbpurs0ttcah1fs71r53inbpfb631a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159980749251:android:1102361a82f0a34ef33d76",
+        "android_client_info": {
+          "package_name": "com.marioapps.locatemenow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159980749251-ecpbpurs0ttcah1fs71r53inbpfb631a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT6cVxfkCZjzOedn654TptDZhxUwt0sTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159980749251-ecpbpurs0ttcah1fs71r53inbpfb631a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159980749251:android:1844ce968b4181bdf33d76",
+        "android_client_info": {
+          "package_name": "com.marioapps.locationupdater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159980749251-ecpbpurs0ttcah1fs71r53inbpfb631a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT6cVxfkCZjzOedn654TptDZhxUwt0sTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159980749251-ecpbpurs0ttcah1fs71r53inbpfb631a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
